@@ -37,8 +37,6 @@ Fun facts about me: I’m a tech enthusiast who loves coding challenges, and I�
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shadrackkumi07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shadrackkumi07&theme=dark&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadrackkumi07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ### ✍️ Random Dev Quote:
