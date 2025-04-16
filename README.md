@@ -4,7 +4,7 @@ I'm currently working on creating dynamic dashboards for agricultural reports, t
 
 I’m looking to collaborate on projects involving data visualization, analysis, and engineering pipelines. If you need help with SQL, Power BI, Python, or crafting impactful dashboards, I’d be excited to contribute!
 
-Right now, I’m diving deeper into data engineering tools and technologies like Apache Spark, Azure, AWS, Kafka, and Airflow to expand my expertise.
+Right now, I’m diving deeper into data engineering tools and technologies like Apache Spark, Azure, AWS, Kafka, and Airflow to expand my expertise. Machine learning and Artificial Intelligence
 
 Fun facts about me: I’m a tech enthusiast who loves coding challenges, and I’m passionate about creating efficient solutions to complex problems. When I’m not immersed in data, I enjoy gaming and exploring the latest trends in technology.
 
