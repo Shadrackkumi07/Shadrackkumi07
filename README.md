@@ -3,11 +3,13 @@
 # Hi 👋🏽, I'm Shadrack:
 I'm currently working on creating dynamic dashboards for agricultural reports, transforming data into insights that drive decision-making.
 
-I’m looking to collaborate on projects involving data visualization, analysis, and engineering pipelines. If you need help with SQL, Power BI, Python, or crafting impactful dashboards, I’d be excited to contribute!
+🚀 I’m always eager to collaborate on innovative projects at the intersection of data, software development, and AI!
 
-Right now, I’m diving deeper into data engineering tools and technologies like Apache Spark, Azure, AWS, Kafka, and Airflow to expand my expertise. Machine learning and Artificial Intelligence
+Whether it’s building impactful dashboards with SQL & Power BI, crafting robust Python-based pipelines, or engineering scalable solutions with technologies like Apache Spark, Azure, AWS, Kafka, and Airflow, I’d love to contribute.
 
-Fun facts about me: I’m a tech enthusiast who loves coding challenges, and I’m passionate about creating efficient solutions to complex problems. When I’m not immersed in data, I enjoy gaming and exploring the latest trends in technology.
+Currently, I’m diving deeper into data engineering and exploring advanced applications of Machine Learning and Artificial Intelligence. My passion lies in solving complex problems through clean, efficient code, intuitive visualizations, and intelligent automation.
+
+🎮 Fun fact: When I’m not coding or crunching data, I’m likely gaming or exploring the latest tech innovations.
 
 ---
 
