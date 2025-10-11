@@ -1,46 +1,95 @@
 [![Portfolio Banner](https://drive.google.com/uc?export=view&id=13lNj_4ZBjaDiRZuyRrPVI6lTP-lyvMcS)]()
 
-# Hi 👋🏽, I'm Shadrack:
-I'm currently working on creating dynamic dashboards for agricultural reports, transforming data into insights that drive decision-making.
-
-🚀 I’m always eager to collaborate on innovative projects at the intersection of data, software development, and AI!
-
-Whether it’s building impactful dashboards with SQL & Power BI, crafting robust Python-based pipelines, or engineering scalable solutions with technologies like Apache Spark, Azure, AWS, Kafka, and Airflow, I’d love to contribute.
-
-Currently, I’m diving deeper into data engineering and exploring advanced applications of Machine Learning and Artificial Intelligence. My passion lies in solving complex problems through clean, efficient code, intuitive visualizations, and intelligent automation.
-
-🎮 Fun fact: When I’m not coding or crunching data, I’m likely gaming or exploring the latest tech innovations.
+# 👋🏽 Hi, I’m Shadrack Kumi  
+**Software Engineer | Full-Stack Developer | Data & AI Enthusiast**
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-kumi-)
+### 🚀 About Me
+I’m a **Software Engineer and Builder** passionate about creating impactful, scalable applications — from end-to-end systems to intuitive user experiences.
+
+I’m the creator and lead developer behind **[Brackify](https://brackify.gg)** — a global esports platform built with **React, Node.js, Express, and MongoDB**, now expanding to **Android (via Capacitor)** and enriched with **AI-powered automation, analytics, and creator tools**.
+
+My work blends:
+- ⚙️ **Robust backend engineering** (Node.js, Express, REST APIs, MongoDB)
+- 🎨 **Modern frontend design** (Vue 3 + Quasar, React)
+- ☁️ **Cloud deployment and scaling** (Render, Vercel, Firebase, Cloudinary)
+- 📊 **Data engineering and analytics** (SQL, Power BI, Azure, Python)
+- 🤖 **AI experimentation and automation** (LLMs, ML agents, chatbots, analytics)
+
+I love building products that merge **creativity, data, and technology** — from esports and AI-driven platforms to smart dashboards that empower better decisions.
 
 ---
 
-## 💻 Languages and Tools I Use:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Power Automate](https://img.shields.io/badge/power_automate-%23006AD1.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Google Cloud Platform (GCP)](https://img.shields.io/badge/google_cloud_platform-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+### 💡 What I’m Working On
+- 🚧 Expanding **Brackify 2.0** with creator pages, social hubs, and live bracket systems  
+- 🧠 Developing **intelligent automation tools** for event organizers  
+- 📊 Crafting **data dashboards and machine learning pipelines** for decision support  
+- ⚡ Exploring **Vue + Quasar + TypeScript** for full-stack app development  
+- 🧩 Building personal projects around **AI agents, geospatial data, and cloud pipelines**
 
 ---
 
-### ✍️ Random Dev Quote:
+### 🧠 My Core Stack
+#### Frontend
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/quasar-1976D2.svg?style=for-the-badge&logo=quasar&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend / DevOps
+![Node.js](https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-404D59.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/render-000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+#### Data & Analytics
+![Python](https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-025E8C.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### Tools & Design
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+### 🧩 Highlight Project: Brackify
+🎮 **Brackify** — The Ultimate Platform for Esports Tournaments  
+Build. Manage. Watch. Connect.  
+
+- 🌍 Full-stack web + mobile platform built with React, Node.js, Express, MongoDB  
+- 🧠 AI-powered chat (BrackiBot), creator pages, analytics dashboard, and push notifications  
+- 📱 Shipped to **Google Play Store** using **Capacitor**  
+- ☁️ Deployed on **Render + Vercel**, using **Firebase Auth** and **Cloudinary uploads**  
+- 💡 Multi-role architecture: **Admins, TOs, Players, and Fans**
+
+🔗 [Visit Brackify.gg](https://brackify.gg)
+
+---
+
+### 🕹️ Fun Fact
+When I’m not developing or experimenting with AI, I’m probably analyzing tournament data, gaming, or designing something new for the next big update.
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-kumi-)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Brackifygg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E1E.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://brackify.gg)
+
+---
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
