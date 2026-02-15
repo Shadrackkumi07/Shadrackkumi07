@@ -1,5 +1,3 @@
-# [![Portfolio Banner](https://drive.google.com/uc?export=view&id=13lNj_4ZBjaDiRZuyRrPVI6lTP-lyvMcS)]()
-
 # 👋🏽 Hi, I’m Shadrack Kumi  
 **Software Engineer | Full-Stack Developer | Data & AI Enthusiast**
 
@@ -11,7 +9,7 @@ I’m a **Software Engineer and Builder** passionate about creating impactful, s
 I’m the creator and lead developer behind **[Brackify](https://brackify.gg)** — a global esports platform built with **React, Node.js, Express, and MongoDB**, now expanding to **Android (via Capacitor)** and enriched with **AI-powered automation, analytics, and creator tools**.
 
 My work blends:
-- ⚙️ **Robust backend engineering** (Node.js, Express, REST APIs, MongoDB)
+- ⚙️ **Robust backend engineering** (Node.js, Express, REST APIs, MongoDB, Postgres, Graphql)
 - 🎨 **Modern frontend design** (Vue 3 + Quasar, React)
 - ☁️ **Cloud deployment and scaling** (Render, Vercel, Firebase, Cloudinary)
 - 📊 **Data engineering and analytics** (SQL, Power BI, Azure, Python)
@@ -47,6 +45,8 @@ I love building products that merge **creativity, data, and technology** — fro
 ![Render](https://img.shields.io/badge/render-000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 #### Data & Analytics
@@ -69,8 +69,8 @@ Build. Manage. Watch. Connect.
 
 - 🌍 Full-stack web + mobile platform built with React, Node.js, Express, MongoDB  
 - 🧠 AI-powered chat (BrackiBot), creator pages, analytics dashboard, and push notifications  
-- 📱 Shipped to **Google Play Store** using **Capacitor**  
-- ☁️ Deployed on **Render + Vercel**, using **Firebase Auth** and **Cloudinary uploads**  
+- 📱 Shipped to **Google Play Store & Apple Store**  
+- ☁️ Deployed on **Render, AWS & Vercel** 
 - 💡 Multi-role architecture: **Admins, TOs, Players, and Fans**
 
 🔗 [Visit Brackify.gg](https://brackify.gg)
