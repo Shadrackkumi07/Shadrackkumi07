@@ -20,7 +20,7 @@ I love building products that merge **creativity, data, and technology** — fro
 ---
 
 ### 💡 What I’m Working On
-- 🚧 Expanding **Brackify 2.0** with creator pages, social hubs, and live bracket systems  
+- 🚧 Expanding **Brackify 4.0**  
 - 🧠 Developing **intelligent automation tools** for event organizers  
 - 📊 Crafting **data dashboards and machine learning pipelines** for decision support  
 - ⚡ Exploring **Vue + Quasar + TypeScript** for full-stack app development  
