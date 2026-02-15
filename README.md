@@ -6,7 +6,7 @@
 ### 🚀 About Me
 I’m a **Software Engineer and Builder** passionate about creating impactful, scalable applications — from end-to-end systems to intuitive user experiences.
 
-I’m the creator and lead developer behind **[Brackify](https://brackify.gg)** — a global esports platform built with **React, Node.js, Express, and MongoDB**, now expanding to **Android (via Capacitor)** and enriched with **AI-powered automation, analytics, and creator tools**.
+I’m the creator and lead developer behind **[Brackify](https://brackify.gg)** — a global esports platform built with **React, Node.js, Express, and MongoDB**, now expanding to **Android & iOS (via Capacitor)** and enriched with **AI-powered automation, analytics, and creator tools**.
 
 My work blends:
 - ⚙️ **Robust backend engineering** (Node.js, Express, REST APIs, MongoDB, Postgres, Graphql)
