@@ -1,4 +1,4 @@
-[![Portfolio Banner](https://drive.google.com/uc?export=view&id=13lNj_4ZBjaDiRZuyRrPVI6lTP-lyvMcS)]()
+# [![Portfolio Banner](https://drive.google.com/uc?export=view&id=13lNj_4ZBjaDiRZuyRrPVI6lTP-lyvMcS)]()
 
 # 👋🏽 Hi, I’m Shadrack Kumi  
 **Software Engineer | Full-Stack Developer | Data & AI Enthusiast**
